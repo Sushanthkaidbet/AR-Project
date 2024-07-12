@@ -1,4 +1,4 @@
-![Screenshot 2024-07-12 134753](https://github.com/user-attachments/assets/e1aaf511-d741-42dd-b078-e145f17275ce)# AR-Project
+# AR-Project
 DESCRIPTION 
 In this project, we are using Unity to build an interactive and realistic interior 
 decoration environment. Unity's Universal Render Pipeline (URP) allows for 
@@ -60,8 +60,7 @@ performance using LOD, occlusion culling, and baked lighting.
 
 FINAL OVERVIEW 
 This how my final project looks like 
-
-![Screenshot 2024-07-12 134713](https://github.com/user-attachments/assets/1bea6acf-0c3b-4598-b238-e8e084e5a511)![Screenshot 2024-07-12 134713](https://github.com/user-attachments/assets/a495221f-944d-4727-8ac9-9532b1abd9c4)
-![Screenshot 2024-07-12 134753](https://github.com/user-attachments/assets/a2c12a73-ed90-4a9b-b1c9-a9d7fd1df618)
-![Screenshot 2024-07-12 134642](https://github.com/user-attachments/assets/104d2caa-85bd-437b-9130-901852e7e7a4)
+![Screenshot 2024-07-12 134713](https://github.com/user-attachments/assets/c3300af2-3da9-4957-8719-79c237fd99ff)
+![Screenshot 2024-07-12 134642](https://github.com/user-attachments/assets/8c83aabb-a452-4257-838f-548b8f82201c)
+![Screenshot 2024-07-12 134753](https://github.com/user-attachments/assets/2c96980c-3f35-491c-a3ac-f0332a968069)
 
